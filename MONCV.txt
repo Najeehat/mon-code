@@ -1,0 +1,11 @@
+Mon cv personnel
+compétence
+HTML
+CSS
+JAVASCRIPT
+REACTJS
+NODEJS
+Expérience
+a travaillé chez gomycode de 2000 à 2015
+
+Tavaille chez Microsoft depuis 2015
